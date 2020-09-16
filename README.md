@@ -20,7 +20,7 @@ Districts | :white_check_mark: | :white_check_mark: | :white_check_mark: | :whit
 Quarters | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark:
 
 ## Database Backups
-File | MySQL >= 5.7 | SQL Server >= 2017
+File | MySQL >= 5.6 | SQL Server >= 2017
 :------------ | :-------------| :-------------
 regions_mysql.sql | :white_check_mark: | N/A 
 regionsDB.bak | N/A | :white_check_mark: 
@@ -33,7 +33,7 @@ regionsDB.bak | N/A | :white_check_mark:
 ## Insights
 Total Regions : 14 <br>
 Total Regions/Cities : 200 <br>
-Total Towns/Districts : 11K+ <br>
+Total Towns/Districts : 11,184+ <br>
 
 Last Updated On : 15th september 2020
 
