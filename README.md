@@ -20,7 +20,7 @@ Districts | :white_check_mark: | :white_check_mark: | :white_check_mark: | :whit
 Quarters | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark:
 
 ## Database Backups
-File | MySQL | SQL Server
+File | MySQL >= 5.7 | SQL Server >= 2017
 :------------ | :-------------| :-------------
 regions_mysql.sql | :white_check_mark: | N/A 
 regionsDB.bak | N/A | :white_check_mark: 
