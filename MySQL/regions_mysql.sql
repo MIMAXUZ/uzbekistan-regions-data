@@ -3,9 +3,9 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1:3306
--- Generation Time: Sep 16, 2020 at 02:22 PM
+-- Generation Time: Dec 29, 2020 at 02:35 PM
 -- Server version: 5.7.29-log
--- PHP Version: 7.3.17
+-- PHP Version: 7.4.5
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
@@ -18,7 +18,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `regions_database`
+-- Database: `uzbekistandb`
 --
 
 -- --------------------------------------------------------
@@ -34,7 +34,7 @@ CREATE TABLE IF NOT EXISTS `districts` (
   `name_oz` varchar(100) DEFAULT NULL,
   `name_ru` varchar(100) DEFAULT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=218 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=220 DEFAULT CHARSET=utf8;
 
 --
 -- Dumping data for table `districts`
@@ -53,7 +53,7 @@ INSERT INTO `districts` (`id`, `region_id`, `name_uz`, `name_oz`, `name_ru`) VAL
 (24, 1, 'Taxtako‘pir tumani', 'Тахтакўпир тумани', 'Тахтакупырский район'),
 (25, 1, 'To‘rtko‘l tumani', 'Тўрткўл тумани', 'Турткульский район'),
 (26, 1, 'Xo‘jayli tumani', 'Хўжайли тумани', 'Ходжейлийский район'),
-(27, 1, 'CHimboy tumani', 'Чимбой тумани', 'Чимбайский район'),
+(27, 1, 'Chimboy tumani', 'Чимбой тумани', 'Чимбайский район'),
 (28, 1, 'Shumanay tumani', 'Шуманай тумани', 'Шуманайский район'),
 (29, 1, 'Ellikqal‘a tumani', 'Элликқалъа тумани', 'Элликкалинский район'),
 (30, 2, 'Andijon shahri', 'Андижон шаҳри', 'город Андижан'),
@@ -225,7 +225,7 @@ INSERT INTO `districts` (`id`, `region_id`, `name_uz`, `name_oz`, `name_ru`) VAL
 (196, 13, 'Yangiariq tumani', 'Янгиариқ тумани', 'Янгиарыкский район'),
 (197, 13, 'Yangibozor tumani', 'Янгибозор тумани', 'Янгибазарский район'),
 (198, 14, 'Bektimer tumani', 'Бектимер тумани', 'Бектемирский район'),
-(199, 14, 'M.Ulug‘bek tumani', 'М.Улуғбек тумани', 'Мирзо-Улугбекский район'),
+(199, 14, 'Mirzo Ulug\'bek tumani', 'Мирзо-Улугбекский район', 'Мирзо-Улугбекский район'),
 (200, 14, 'Mirobod tumani', 'Миробод тумани', 'Мирабадский район'),
 (201, 14, 'Olmazor tumani', 'Олмазор тумани', 'Алмазарский район'),
 (202, 14, 'Sirg\'ali tumani', 'Сиргали тумани', 'Сергелийский район'),
@@ -242,7 +242,9 @@ INSERT INTO `districts` (`id`, `region_id`, `name_uz`, `name_oz`, `name_ru`) VAL
 (213, 11, 'Yangiyo‘l shahri', 'Янгийўл шаҳри', 'город Янгиюль'),
 (215, 11, 'Toshkent tumani', 'Тошкент тумани', 'Ташкентский район'),
 (216, 13, 'Xiva shahri', 'Хива шаҳри\r\n\r\nХива шаҳри\r\n\r\nХива шаҳри', 'город Хива'),
-(217, 13, 'Do\'stlik shahri', 'Дўстлик шаҳри\r\nДўстлик шаҳри', 'город Дўстлик\r\nДўстлик');
+(217, 13, 'Do\'stlik shahri', 'Дўстлик шаҳри\r\nДўстлик шаҳри', 'город Дўстлик\r\nДўстлик'),
+(218, 14, 'Yangihayot tumani', 'Янгихаёт тумани', 'Янгихаётский район'),
+(219, 13, 'Tuproqqala tumani', 'Тупроққалъа тумани', 'Тироккальский район');
 
 -- --------------------------------------------------------
 

@@ -11,7 +11,7 @@
 {"id":"24","region_id":"1","name_uz":"Taxtako‘pir tumani","name_oz":"Тахтакўпир тумани","name_ru":"Тахтакупырский район"},
 {"id":"25","region_id":"1","name_uz":"To‘rtko‘l tumani","name_oz":"Тўрткўл тумани","name_ru":"Турткульский район"},
 {"id":"26","region_id":"1","name_uz":"Xo‘jayli tumani","name_oz":"Хўжайли тумани","name_ru":"Ходжейлийский район"},
-{"id":"27","region_id":"1","name_uz":"CHimboy tumani","name_oz":"Чимбой тумани","name_ru":"Чимбайский район"},
+{"id":"27","region_id":"1","name_uz":"Chimboy tumani","name_oz":"Чимбой тумани","name_ru":"Чимбайский район"},
 {"id":"28","region_id":"1","name_uz":"Shumanay tumani","name_oz":"Шуманай тумани","name_ru":"Шуманайский район"},
 {"id":"29","region_id":"1","name_uz":"Ellikqal‘a tumani","name_oz":"Эллик?алъа тумани","name_ru":"Элликкалинский район"},
 {"id":"30","region_id":"2","name_uz":"Andijon shahri","name_oz":"Андижон ша?ри","name_ru":"город Андижан"},
@@ -183,7 +183,7 @@
 {"id":"196","region_id":"13","name_uz":"Yangiariq tumani","name_oz":"Янгиари? тумани","name_ru":"Янгиарыкский район"},
 {"id":"197","region_id":"13","name_uz":"Yangibozor tumani","name_oz":"Янгибозор тумани","name_ru":"Янгибазарский район"},
 {"id":"198","region_id":"14","name_uz":"Bektimer tumani","name_oz":"Бектимер тумани","name_ru":"Бектемирский район"},
-{"id":"199","region_id":"14","name_uz":"M.Ulug‘bek tumani","name_oz":"М.Улу?бек тумани","name_ru":"Мирзо-Улугбекский район"},
+{"id":"199","region_id":"14","name_uz":"Mirzo Ulug'bek tumani","name_oz":"Мирзо-Улугбекский район","name_ru":"Мирзо-Улугбекский район"},
 {"id":"200","region_id":"14","name_uz":"Mirobod tumani","name_oz":"Миробод тумани","name_ru":"Мирабадский район"},
 {"id":"201","region_id":"14","name_uz":"Olmazor tumani","name_oz":"Олмазор тумани","name_ru":"Алмазарский район"},
 {"id":"202","region_id":"14","name_uz":"Sirg'ali tumani","name_oz":"Сиргали тумани","name_ru":"Сергелийский район"},
@@ -200,4 +200,6 @@
 {"id":"213","region_id":"11","name_uz":"Yangiyo‘l shahri","name_oz":"Янгийўл ша?ри","name_ru":"город Янгиюль"},
 {"id":"215","region_id":"11","name_uz":"Toshkent tumani","name_oz":"Тошкент тумани","name_ru":"Ташкентский район"},
 {"id":"216","region_id":"13","name_uz":"Xiva shahri","name_oz":"Хива ша?ри\r\n\r\nХива ша?ри\r\n\r\nХива ша?ри","name_ru":"город Хива"},
-{"id":"217","region_id":"13","name_uz":"Do'stlik shahri","name_oz":"Дўстлик ша?ри\r\nДўстлик ша?ри","name_ru":"город Дўстлик\r\nДўстлик"}]
+{"id":"217","region_id":"13","name_uz":"Do'stlik shahri","name_oz":"Дўстлик ша?ри\r\nДўстлик ша?ри","name_ru":"город Дўстлик\r\nДўстлик"},
+{"id":"218","region_id":"14","name_uz":"Yangihayot tumani","name_oz":"Янгихаёт тумани","name_ru":"Янгихаётский район"},
+{"id":"219","region_id":"13","name_uz":"Tuproqqala tumani","name_oz":"Тупро??алъа тумани","name_ru":"Тироккальский район"}]

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data>
+<table_regions>
+<regions id="1" name_uz="Qoraqalpog‘iston Respublikasi" name_oz="Қорақалпоғистон Республикаси" name_ru="Республика Каракалпакстан" />
+<regions id="2" name_uz="Andijon viloyati" name_oz="Андижон вилояти" name_ru="Андижанская область" />
+<regions id="3" name_uz="Buxoro viloyati" name_oz="Бухоро вилояти" name_ru="Бухарская область" />
+<regions id="4" name_uz="Jizzax viloyati" name_oz="Жиззах вилояти" name_ru="Джизакская область" />
+<regions id="5" name_uz="Qashqadaryo viloyati" name_oz="Қашқадарё вилояти" name_ru="Кашкадарьинская область" />
+<regions id="6" name_uz="Navoiy viloyati" name_oz="Навоий вилояти" name_ru="Навоийская область" />
+<regions id="7" name_uz="Namangan viloyati" name_oz="Наманган вилояти" name_ru="Наманганская область" />
+<regions id="8" name_uz="Samarqand viloyati" name_oz="Самарқанд вилояти" name_ru="Самаркандская область" />
+<regions id="9" name_uz="Surxandaryo viloyati" name_oz="Сурхандарё вилояти" name_ru="Сурхандарьинская область" />
+<regions id="10" name_uz="Sirdaryo viloyati" name_oz="Сирдарё вилояти" name_ru="Сырдарьинская область" />
+<regions id="11" name_uz="Toshkent viloyati" name_oz="Тошкент вилояти" name_ru="Ташкентская область" />
+<regions id="12" name_uz="Farg‘ona viloyati" name_oz="Фарғона вилояти" name_ru="Ферганская область" />
+<regions id="13" name_uz="Xorazm viloyati" name_oz="Хоразм вилояти" name_ru="Хорезмская область" />
+<regions id="14" name_uz="Toshkent shahri" name_oz="Тошкент шаҳри" name_ru="Город Ташкент" />
+</table_regions>
+</Data>

@@ -8,7 +8,7 @@ Ushbu ma'lumotlar bazasi yordamida siz O'zbekiston hududagi barcha viloyat va tu
 ## Qo'llab quvvatlanadigan fayl turlari
 - JSON
 - SQL
-- XML (Rejada)
+- XML (Tayyor)
 - PLIST (Rejada)
 - YAML (Rejada)
 - CSV
@@ -24,7 +24,7 @@ MHF | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_chec
 File | MySQL >= 5.6 | SQL Server >= 2017
 :------------ | :-------------| :-------------
 regions_mysql.sql | :white_check_mark: | N/A 
-regionsDB.bak | N/A | :white_check_mark: 
+UzbekistanDB.bak | N/A | :white_check_mark: 
 
 # Ma'lumotlar bazasi sxemasi diagrammasi
 
@@ -33,10 +33,10 @@ regionsDB.bak | N/A | :white_check_mark:
 
 ## Jamlangan ma'lumotlar
 Umumiy hududlar : 14 <br>
-Umumiy tumanlar / shaharlar : 200 <br>
+Umumiy tumanlar / shaharlar : 204 <br>
 Umumiy Qishloq va MHF lar : 11,184+ <br>
 
-Oxirgi yangilanish sanasi : 15.09.2020
+Oxirgi yangilanish sanasi : 29.12.2020
 
 ## Eslatma
 ```

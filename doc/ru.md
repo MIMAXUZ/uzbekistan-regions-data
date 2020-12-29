@@ -7,7 +7,7 @@
 ## Доступные форматы
 - JSON
 - SQL
-- XML (Скоро)
+- XML (Готово)
 - PLIST (Скоро)
 - YAML (Скоро)
 - CSV
@@ -23,7 +23,7 @@ File | JSON | SQL | XML | PLIST | YAML | CSV
 файл | MySQL >= 5.6 | SQL Server >= 2017
 :------------ | :-------------| :-------------
 regions_mysql.sql | :white_check_mark: | N/A 
-regionsDB.bak | N/A | :white_check_mark: 
+UzbekistanDB.bak | N/A | :white_check_mark: 
 
 # Схема базы данных
 
@@ -32,10 +32,10 @@ regionsDB.bak | N/A | :white_check_mark:
 
 ## Быстрый отчет
 Всего регионов : 14 <br>
-Всего регионов / городов : 200 <br>
+Всего регионов / городов : 204 <br>
 Всего городов / районов : 11,184+ <br>
 
-Последнее обновление: 15 сентября 2020 г.
+Последнее обновление: 29 декабря 2020 г.
 
 ## Заметки
 ```

@@ -7,7 +7,7 @@ Full Database of regions Uzbekistan available in JSON, SQL  &amp; CSV Format All
 ## Formats Available
 - JSON
 - SQL
-- XML (Soon)
+- XML (Done)
 - PLIST (Soon)
 - YAML (Soon)
 - CSV
@@ -23,7 +23,7 @@ Quarters | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white
 File | MySQL >= 5.6 | SQL Server >= 2017
 :------------ | :-------------| :-------------
 regions_mysql.sql | :white_check_mark: | N/A 
-regionsDB.bak | N/A | :white_check_mark: 
+UzbekistanDB.bak | N/A | :white_check_mark: 
 
 # Database Scheme Diagram
 
@@ -32,10 +32,10 @@ regionsDB.bak | N/A | :white_check_mark:
 
 ## Insights
 Total Regions : 14 <br>
-Total Regions/Cities : 200 <br>
+Total Regions/Cities : 204 <br>
 Total Towns/Districts : 11,184+ <br>
 
-Last Updated On : 15th september 2020
+Last Updated On : 29th december 2020
 
 ## Notes
 ```
