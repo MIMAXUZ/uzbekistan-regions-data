@@ -43,6 +43,21 @@ Last Updated On : 29th december 2020
 Некоторые районы и города, кварталы могут быть исключены.
 ```
 
+## Change logs
+```
+UPDATED AT 29th December 2020
+Added new districts:
+ - Yangihayot tumani (Tashkent) - Resource: http://tashkent.uz/
+ - Tuproqqala tumani (Khorazm) - Resource: http://xorazm.uz/
+
+Changed some districts: 
+ - M.Ulug‘bek tumani => Mirzo Ulug'bek tumani
+ - Fixed CHimboy => Chimboy 
+
+XML version completed. Now you can use XML version.
+Note! SQL Server version migrated from MySQL using MICROSOFT SQL SERVER MIGRATION ASSISTANT FOR MYSQL, V8.15
+```
+
 ## Contributions
 Everyone can contribute! We will be happy with that ...
 
