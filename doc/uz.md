@@ -8,7 +8,7 @@ Ushbu ma'lumotlar bazasi yordamida siz O'zbekiston hududagi barcha viloyat va tu
 ## Qo'llab quvvatlanadigan fayl turlari
 - JSON
 - SQL
-- XML (Tayyor)
+- XML
 - PLIST (Rejada)
 - YAML (Rejada)
 - CSV
@@ -36,7 +36,7 @@ Umumiy hududlar : 14 <br>
 Umumiy tumanlar / shaharlar : 204 <br>
 Umumiy Qishloq va MHF lar : 11,184+ <br>
 
-Oxirgi yangilanish sanasi : 29.12.2020
+Oxirgi yangilanish sanasi : 24.02.2021
 
 ## Eslatma
 ```

@@ -203,7 +203,12 @@
 <districts id="215" region_id="11" name_uz="Toshkent tumani" name_oz="Тошкент тумани" name_ru="Ташкентский район" />
 <districts id="216" region_id="13" name_uz="Xiva shahri" name_oz="Хива шаҳри&#xD;&#xA;&#xD;&#xA;Хива шаҳри&#xD;&#xA;&#xD;&#xA;Хива шаҳри" name_ru="город Хива" />
 <districts id="217" region_id="13" name_uz="Do'stlik shahri" name_oz="Дўстлик шаҳри&#xD;&#xA;Дўстлик шаҳри" name_ru="город Дўстлик&#xD;&#xA;Дўстлик" />
-<districts id="218" region_id="14" name_uz="Yangihayot tumani" name_oz="Янгихаёт тумани" name_ru="Янгихаётский район" />
+<districts id="218" region_id="14" name_uz="Yangihayot tumani" name_oz="Янгиҳаёт тумани" name_ru="Янгихаётский район" />
 <districts id="219" region_id="13" name_uz="Tuproqqala tumani" name_oz="Тупроққалъа тумани" name_ru="Тироккальский район" />
+<districts id="220" region_id="7" name_uz="Davlatobod tumani" name_oz="Давлатобод тумани" name_ru="Давлатабадский район &#xD;&#xA;" />
+<districts id="221" region_id="6" name_uz="G‘ozg‘on shahar" name_oz="Ғозғон шаҳар" name_ru="Ғозғон Ғозғон" />
+<districts id="222" region_id="1" name_uz="Bo‘zatov tumani" name_oz="Бўзатов тумани" name_ru="Бозатовский район" />
+<districts id="223" region_id="9" name_uz="Bandixon tumani" name_oz="Бандихон тумани" name_ru="Бандиксонский район" />
+<districts id="224" region_id="5" name_uz="Shahrisabz shahar" name_oz="Шаҳрисабз шаҳар" name_ru="Город Шахрисабз" />
 </table_districts>
 </Data>

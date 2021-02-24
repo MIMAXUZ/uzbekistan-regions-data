@@ -7,7 +7,7 @@ Full Database of regions Uzbekistan available in JSON, SQL  &amp; CSV Format All
 ## Formats Available
 - JSON
 - SQL
-- XML (Done)
+- XML
 - PLIST (Soon)
 - YAML (Soon)
 - CSV
@@ -35,7 +35,7 @@ Total Regions : 14 <br>
 Total Regions/Cities : 204 <br>
 Total Towns/Districts : 11,184+ <br>
 
-Last Updated On : 29th december 2020
+Last Updated On : 24th February 2021
 
 ## Notes
 ```
@@ -45,17 +45,19 @@ Last Updated On : 29th december 2020
 
 ## Change logs
 ```
-UPDATED AT 29th December 2020
+UPDATED AT 24th February 2021
 Added new districts:
- - Yangihayot tumani (Tashkent) - Resource: http://tashkent.uz/
- - Tuproqqala tumani (Khorazm) - Resource: http://xorazm.uz/
+ — Davlatobod tumani (Namangan viloyati)
+ — G‘ozg‘on shahar	Navoiy viloyati
+ — Bo‘zatov tumani	 (Qoraqalpog‘iston Respublikasi)
+ — Bandixon tumani	(Surxandaryo viloyati)
+ — Shahrisabz shahar	(Qashqadaryo viloyati )
 
-Changed some districts: 
- - M.Ulug‘bek tumani => Mirzo Ulug'bek tumani
- - Fixed CHimboy => Chimboy 
+Fixed
+— Янгихаёт =>  Янгиҳаёт	(Toshkent shahri)
 
 XML version completed. Now you can use XML version.
-Note! SQL Server version migrated from MySQL using MICROSOFT SQL SERVER MIGRATION ASSISTANT FOR MYSQL, V8.15
+Note! SQL Server version migrated from MySQL using MICROSOFT SQL SERVER MIGRATION ASSISTANT FOR MYSQL, V8.16
 ```
 
 ## Contributions

@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1:3306
--- Generation Time: Dec 29, 2020 at 02:35 PM
+-- Generation Time: Feb 24, 2021 at 06:34 PM
 -- Server version: 5.7.29-log
 -- PHP Version: 7.4.5
 
@@ -34,7 +34,7 @@ CREATE TABLE IF NOT EXISTS `districts` (
   `name_oz` varchar(100) DEFAULT NULL,
   `name_ru` varchar(100) DEFAULT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=220 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=225 DEFAULT CHARSET=utf8;
 
 --
 -- Dumping data for table `districts`
@@ -243,8 +243,13 @@ INSERT INTO `districts` (`id`, `region_id`, `name_uz`, `name_oz`, `name_ru`) VAL
 (215, 11, 'Toshkent tumani', 'Тошкент тумани', 'Ташкентский район'),
 (216, 13, 'Xiva shahri', 'Хива шаҳри\r\n\r\nХива шаҳри\r\n\r\nХива шаҳри', 'город Хива'),
 (217, 13, 'Do\'stlik shahri', 'Дўстлик шаҳри\r\nДўстлик шаҳри', 'город Дўстлик\r\nДўстлик'),
-(218, 14, 'Yangihayot tumani', 'Янгихаёт тумани', 'Янгихаётский район'),
-(219, 13, 'Tuproqqala tumani', 'Тупроққалъа тумани', 'Тироккальский район');
+(218, 14, 'Yangihayot tumani', 'Янгиҳаёт тумани', 'Янгихаётский район'),
+(219, 13, 'Tuproqqala tumani', 'Тупроққалъа тумани', 'Тироккальский район'),
+(220, 7, 'Davlatobod tumani', 'Давлатобод тумани', 'Давлатабадский район \r\n'),
+(221, 6, 'G‘ozg‘on shahar', 'Ғозғон шаҳар', 'Ғозғон Ғозғон'),
+(222, 1, 'Bo‘zatov tumani', 'Бўзатов тумани', 'Бозатовский район'),
+(223, 9, 'Bandixon tumani', 'Бандихон тумани', 'Бандиксонский район'),
+(224, 5, 'Shahrisabz shahar', 'Шаҳрисабз шаҳар', 'Город Шахрисабз');
 
 -- --------------------------------------------------------
 
