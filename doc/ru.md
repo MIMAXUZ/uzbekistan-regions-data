@@ -35,17 +35,16 @@ UzbekistanDB.bak | N/A | :white_check_mark:
 Всего регионов / городов : 204 <br>
 Всего городов / районов : 11,184+ <br>
 
-Последнее обновление: 24 февраля 2021 г.
+Последнее обновление: 13 марта 2021 г..
 
 ## Заметки
 ```
-Введенные данные были созданы с использованием Википедии и https://github.com/kenjebaev/regions. 
-Некоторые районы и города, кварталы могут быть исключены.
+В этой информации могут быть пробелы.
+Сообщите нам, если информация неверна или не введена!
 ```
 
 ## Contributions
 Каждый может внести свой вклад! Мы будем рады этому ...
-
 
 ## Следуй за мной в
 <a href="https://github.com/mimaxuz/"><img alt="Github @mimaxuz" src="https://img.shields.io/static/v1?logo=github&message=Github&color=black&style=flat-square&label=" /></a> 

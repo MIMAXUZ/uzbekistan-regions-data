@@ -36,12 +36,11 @@ Umumiy hududlar : 14 <br>
 Umumiy tumanlar / shaharlar : 204 <br>
 Umumiy Qishloq va MHF lar : 11,184+ <br>
 
-Oxirgi yangilanish sanasi : 24.02.2021
+Oxirgi yangilanish sanasi : 13.03.2021
 
 ## Eslatma
 ```
-Kiritilgan ma'lumotlar Vikipediya va https://github.com/kenjebaev/regions 
-yordamida yaratilgan. Ayrim tumanlar va shaharlar, mahallalar bundan mustasno bo'lishi mumkin.
+Ayrim tumanlar va shaharlar, mahallalar bundan mustasno bo'lishi mumkin.
 Agarda MB bilan bog'liq muammo bo'ladigan bo'lsa bizga xabar berishingizni so'raymiz
 ```
 

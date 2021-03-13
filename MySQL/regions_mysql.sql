@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1:3306
--- Generation Time: Feb 24, 2021 at 06:34 PM
+-- Generation Time: Mar 13, 2021 at 04:54 PM
 -- Server version: 5.7.29-log
 -- PHP Version: 7.4.5
 
@@ -27,14 +27,13 @@ SET time_zone = "+00:00";
 -- Table structure for table `districts`
 --
 
-CREATE TABLE IF NOT EXISTS `districts` (
-  `id` int(11) NOT NULL AUTO_INCREMENT,
+CREATE TABLE `districts` (
+  `id` int(11) NOT NULL,
   `region_id` int(11) NOT NULL,
   `name_uz` varchar(100) DEFAULT NULL,
   `name_oz` varchar(100) DEFAULT NULL,
-  `name_ru` varchar(100) DEFAULT NULL,
-  PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=225 DEFAULT CHARSET=utf8;
+  `name_ru` varchar(100) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 --
 -- Dumping data for table `districts`
@@ -241,15 +240,15 @@ INSERT INTO `districts` (`id`, `region_id`, `name_uz`, `name_oz`, `name_ru`) VAL
 (212, 11, 'Ohangaron shahri', 'Оҳангарон шаҳри', 'город Ахангаранский'),
 (213, 11, 'Yangiyo‘l shahri', 'Янгийўл шаҳри', 'город Янгиюль'),
 (215, 11, 'Toshkent tumani', 'Тошкент тумани', 'Ташкентский район'),
-(216, 13, 'Xiva shahri', 'Хива шаҳри\r\n\r\nХива шаҳри\r\n\r\nХива шаҳри', 'город Хива'),
+(216, 13, 'Xiva shahri', 'Хива шаҳри', 'город Хива'),
 (217, 13, 'Do\'stlik shahri', 'Дўстлик шаҳри\r\nДўстлик шаҳри', 'город Дўстлик\r\nДўстлик'),
 (218, 14, 'Yangihayot tumani', 'Янгиҳаёт тумани', 'Янгихаётский район'),
 (219, 13, 'Tuproqqala tumani', 'Тупроққалъа тумани', 'Тироккальский район'),
 (220, 7, 'Davlatobod tumani', 'Давлатобод тумани', 'Давлатабадский район \r\n'),
-(221, 6, 'G‘ozg‘on shahar', 'Ғозғон шаҳар', 'Ғозғон Ғозғон'),
+(221, 6, 'G‘ozg‘on shahri', 'Ғозғон шаҳри', 'Город Гозган'),
 (222, 1, 'Bo‘zatov tumani', 'Бўзатов тумани', 'Бозатовский район'),
 (223, 9, 'Bandixon tumani', 'Бандихон тумани', 'Бандиксонский район'),
-(224, 5, 'Shahrisabz shahar', 'Шаҳрисабз шаҳар', 'Город Шахрисабз');
+(224, 5, 'Shahrisabz shahri', 'Шаҳрисабз шаҳри', 'Город Шахрисабз');
 
 -- --------------------------------------------------------
 
@@ -257,12 +256,11 @@ INSERT INTO `districts` (`id`, `region_id`, `name_uz`, `name_oz`, `name_ru`) VAL
 -- Table structure for table `quarters`
 --
 
-CREATE TABLE IF NOT EXISTS `quarters` (
-  `id` int(11) NOT NULL AUTO_INCREMENT,
+CREATE TABLE `quarters` (
+  `id` int(11) NOT NULL,
   `district_id` int(11) NOT NULL,
-  `name` varchar(255) DEFAULT NULL,
-  PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=11184 DEFAULT CHARSET=utf8;
+  `name` varchar(255) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 --
 -- Dumping data for table `quarters`
@@ -10301,13 +10299,12 @@ INSERT INTO `quarters` (`id`, `district_id`, `name`) VALUES
 -- Table structure for table `regions`
 --
 
-CREATE TABLE IF NOT EXISTS `regions` (
-  `id` int(11) NOT NULL AUTO_INCREMENT,
+CREATE TABLE `regions` (
+  `id` int(11) NOT NULL,
   `name_uz` varchar(60) DEFAULT NULL,
   `name_oz` varchar(60) DEFAULT NULL,
-  `name_ru` varchar(60) DEFAULT NULL,
-  PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=15 DEFAULT CHARSET=utf8;
+  `name_ru` varchar(60) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 --
 -- Dumping data for table `regions`
@@ -10328,6 +10325,50 @@ INSERT INTO `regions` (`id`, `name_uz`, `name_oz`, `name_ru`) VALUES
 (12, 'Farg‘ona viloyati', 'Фарғона вилояти', 'Ферганская область'),
 (13, 'Xorazm viloyati', 'Хоразм вилояти', 'Хорезмская область'),
 (14, 'Toshkent shahri', 'Тошкент шаҳри', 'Город Ташкент');
+
+--
+-- Indexes for dumped tables
+--
+
+--
+-- Indexes for table `districts`
+--
+ALTER TABLE `districts`
+  ADD PRIMARY KEY (`id`);
+
+--
+-- Indexes for table `quarters`
+--
+ALTER TABLE `quarters`
+  ADD PRIMARY KEY (`id`);
+
+--
+-- Indexes for table `regions`
+--
+ALTER TABLE `regions`
+  ADD PRIMARY KEY (`id`);
+
+--
+-- AUTO_INCREMENT for dumped tables
+--
+
+--
+-- AUTO_INCREMENT for table `districts`
+--
+ALTER TABLE `districts`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=225;
+
+--
+-- AUTO_INCREMENT for table `quarters`
+--
+ALTER TABLE `quarters`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=11184;
+
+--
+-- AUTO_INCREMENT for table `regions`
+--
+ALTER TABLE `regions`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=15;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;

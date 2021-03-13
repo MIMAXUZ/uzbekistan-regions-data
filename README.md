@@ -35,29 +35,12 @@ Total Regions : 14 <br>
 Total Regions/Cities : 204 <br>
 Total Towns/Districts : 11,184+ <br>
 
-Last Updated On : 24th February 2021
+Last Updated On : 13th March 2021
 
 ## Notes
 ```
-Введенные данные были созданы с использованием Википедии и https://github.com/kenjebaev/regions. 
-Некоторые районы и города, кварталы могут быть исключены.
-```
-
-## Change logs
-```
-UPDATED AT 24th February 2021
-Added new districts:
- — Davlatobod tumani (Namangan viloyati)
- — G‘ozg‘on shahar	Navoiy viloyati
- — Bo‘zatov tumani	 (Qoraqalpog‘iston Respublikasi)
- — Bandixon tumani	(Surxandaryo viloyati)
- — Shahrisabz shahar	(Qashqadaryo viloyati )
-
-Fixed
-— Янгихаёт =>  Янгиҳаёт	(Toshkent shahri)
-
-XML version completed. Now you can use XML version.
-Note! SQL Server version migrated from MySQL using MICROSOFT SQL SERVER MIGRATION ASSISTANT FOR MYSQL, V8.16
+There may be gaps between this information. 
+Let us know if the information is incorrect or not entered!
 ```
 
 ## Contributions
