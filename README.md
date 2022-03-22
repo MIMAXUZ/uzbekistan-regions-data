@@ -60,7 +60,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 		</a>
 		<br/>
 		<a href="https://github.com/MIMAXUZ/uzbekistan-regions-data/commits?author=kenjebaev" title="Code">💻</a>
-		<a href="http://www.kenjebaev.uz" title="Ideas & Planning, Feedback">👀</a>
+		<a href="http://www.kenjebaev.uz" title="Ideas & Planning, Feedback">😊</a>
 	</td>
     <td align="center">
 		<a href="https://github.com/mimaxuz">
@@ -84,7 +84,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 		</a>
 		<br/>
       <a href="https://github.com/MIMAXUZ/uzbekistan-regions-data/commits?author=kenjebaev" title="Code">💻</a>
-		<a href="http://www.yaqubov.info" title="Ideas & Planning, Feedback">😊</a>
+		<a href="http://www.yaqubov.info" title="Ideas & Planning, Feedback">c</a>
 	</td>
   </tr>
 </table>
