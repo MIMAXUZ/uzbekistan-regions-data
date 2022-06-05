@@ -32,10 +32,20 @@ UzbekistanDB.bak | N/A | :white_check_mark:
 
 ## Insights
 Total Regions : 14 <br>
-Total Regions/Cities : 204 <br>
-Total Towns/Districts : 11,184+ <br>
+Total Regions/Cities : 205 <br>
+Total Towns/Districts : 2,183+ <br>
 
-Last Updated On : 13th March 2021
+Last Updated On : 5th June 2022
+
+## Change logs
+A new version available that includes many updates.
+
+- Added **villages** table covering towns and districts has been added,
+- Deprecated **Quarters** table (Available in MySQL and MSSQL backups),
+- Added **Ko‘kdala tumani**
+- etc...
+
+Click **[here](https://github.com/MIMAXUZ/uzbekistan-regions-data/wiki/Update-History)** to read more about the change logs for all the latest updates.
 
 ## Notes
 ```

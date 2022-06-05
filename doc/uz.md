@@ -30,13 +30,22 @@ UzbekistanDB.bak | N/A | :white_check_mark:
 
 ![O'zbekistonning viloyatlari, shaharlari, qishloqlari, ro'yxati ](../database_scheme.png )
 
-
 ## Jamlangan ma'lumotlar
 Umumiy hududlar : 14 <br>
-Umumiy tumanlar / shaharlar : 204 <br>
-Umumiy Qishloq va MHF lar : 11,184+ <br>
+Umumiy tumanlar / shaharlar : 205 <br>
+Umumiy Qishloq va Shaharchalar : 2,183+ <br>
 
-Oxirgi yangilanish sanasi : 13.03.2021
+Oxirgi yangilanish sanasi : 05.06.2022
+
+## O'zgarishlar
+Ko'p yangilanishlarni o'z ichiga olgan yangi versiya mavjud.
+
+- Shaharcha va tumanlarni qamrab oluvchi **villages** jadvali qo‘shildi,
+- Eskirgan **Quarters** jadvali (MySQL va MSSQL zaxira nusxalarida mavjud) olib tashlandi,
+- **Ko‘kdala tumani** tumani qo'shildi (Yangi tuman),
+- va boshqalar...
+
+Barcha yangilanishlar va o'zgarishlar haqida to'liq ma'lumot olish uchun  **[Ushbu havolaga](https://github.com/MIMAXUZ/uzbekistan-regions-data/wiki/Update-History)** bosing.
 
 ## Eslatma
 ```
@@ -48,7 +57,6 @@ Agarda MB bilan bog'liq muammo bo'ladigan bo'lsa bizga xabar berishingizni so'ra
 Istalgan hissa qo'shish istagida bo'lganlarni taklif qilib qolamiz.
 Buning uchun siz ushbu repository ni klon qilib olasiz va o'zgarishlarni amalga oshirib push qilasiz. Va biz 
 ko'rib chiqib sizni loyihaga qo'shamiz.
-
 
 ## Bizga qo'shiling!
 <a href="https://github.com/mimaxuz/"><img alt="Github @mimaxuz" src="https://img.shields.io/static/v1?logo=github&message=Github&color=black&style=flat-square&label=" /></a> 

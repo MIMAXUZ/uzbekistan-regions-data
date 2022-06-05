@@ -74,7 +74,7 @@
 <districts id="85" region_id="5" name_uz="Shahrisabz tumani" name_oz="Шаҳрисабз тумани" name_ru="Шахрисабзский район" />
 <districts id="86" region_id="5" name_uz="Yakkabog‘ tumani" name_oz="Яккабоғ тумани" name_ru="Яккабагский район" />
 <districts id="87" region_id="6" name_uz="Zarafshon shahri" name_oz="Зарафшон шаҳри" name_ru="город Зарафшан" />
-<districts id="88" region_id="6" name_uz="Karman tumani" name_oz="Карман тумани" name_ru="Карманинский район" />
+<districts id="88" region_id="6" name_uz="Karmana tumani" name_oz="Кармана тумани" name_ru="Карманинский район" />
 <districts id="89" region_id="6" name_uz="Qiziltepa tumani" name_oz="Қизилтепа тумани" name_ru="Кызылтепинский район" />
 <districts id="90" region_id="6" name_uz="Konimex tumani" name_oz="Конимех тумани" name_ru="Канимехский район" />
 <districts id="91" region_id="6" name_uz="Navbahor tumani" name_oz="Навбаҳор тумани" name_ru="Навбахорский район" />
@@ -119,7 +119,7 @@
 <districts id="130" region_id="9" name_uz="Qo‘mqo‘rg‘on tumani" name_oz="Қўмқўрғон тумани" name_ru="Кумкурганский район" />
 <districts id="131" region_id="9" name_uz="Muzrabot tumani" name_oz="Музработ тумани" name_ru="Музрабадский район" />
 <districts id="132" region_id="9" name_uz="Oltinsoy tumani" name_oz="Олтинсой тумани" name_ru="Алтынсайский район" />
-<districts id="133" region_id="9" name_uz="Sariosiy tumani" name_oz="Сариосий тумани" name_ru="Сариасийский район" />
+<districts id="133" region_id="9" name_uz="Sariosiyo tumani" name_oz="Сариосиё тумани" name_ru="Сариасийский район" />
 <districts id="134" region_id="9" name_uz="Termiz tumani" name_oz="Термиз тумани" name_ru="Термезский район" />
 <districts id="135" region_id="9" name_uz="Termiz shahri" name_oz="Термиз шаҳри" name_ru="город Термез" />
 <districts id="136" region_id="9" name_uz="Uzun tumani" name_oz="Узун тумани" name_ru="Узунский район" />
@@ -208,7 +208,7 @@
 <districts id="220" region_id="7" name_uz="Davlatobod tumani" name_oz="Давлатобод тумани" name_ru="Давлатабадский район &#xD;&#xA;" />
 <districts id="221" region_id="6" name_uz="G‘ozg‘on shahri" name_oz="Ғозғон шаҳри" name_ru="Город Гозган" />
 <districts id="222" region_id="1" name_uz="Bo‘zatov tumani" name_oz="Бўзатов тумани" name_ru="Бозатовский район" />
-<districts id="223" region_id="9" name_uz="Bandixon tumani" name_oz="Бандихон тумани" name_ru="Бандиксонский район" />
 <districts id="224" region_id="5" name_uz="Shahrisabz shahri" name_oz="Шаҳрисабз шаҳри" name_ru="Город Шахрисабз" />
+<districts id="225" region_id="5" name_uz="Ko‘kdala tumani" name_oz="Кўкдала тумани" name_ru="Кукдалинский район" />
 </table_districts>
 </Data>
