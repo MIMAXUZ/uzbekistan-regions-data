@@ -32,17 +32,17 @@ UzbekistanDB.bak | N/A | :white_check_mark:
 
 ## Jamlangan ma'lumotlar
 Umumiy hududlar : 14 <br>
-Umumiy tumanlar / shaharlar : 205 <br>
-Umumiy Qishloq va Shaharchalar : 2,183+ <br>
+Umumiy tumanlar / shaharlar : 210 <br>
+Umumiy Qishloq va Shaharchalar : 2,641+ <br>
+Umumiy MFY lar : 0 <br>
 
-Oxirgi yangilanish sanasi : 05.06.2022
+Oxirgi yangilanish sanasi : 08.04.2025
 
 ## O'zgarishlar
 Ko'p yangilanishlarni o'z ichiga olgan yangi versiya mavjud.
 
-- Shaharcha va tumanlarni qamrab oluvchi **villages** jadvali qo‘shildi,
-- Eskirgan **Quarters** jadvali (MySQL va MSSQL zaxira nusxalarida mavjud) olib tashlandi,
-- **Ko‘kdala tumani** tumani qo'shildi (Yangi tuman),
+- SOATO (maʼmuriy-hududiy tuzilmalarni belgilash tizimi) qoʻshildi.
+- Eskirgan **Quarters** jadvali ma'lumotlari (MSSQL zaxira nusxalarida mavjud) olib tashlandi,
 - va boshqalar...
 
 Barcha yangilanishlar va o'zgarishlar haqida to'liq ma'lumot olish uchun  **[Ushbu havolaga](https://github.com/MIMAXUZ/uzbekistan-regions-data/wiki/Update-History)** bosing.
